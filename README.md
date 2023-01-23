@@ -3,10 +3,10 @@
 <img src="">
 
 ## Steps
-Run npm install
-Run npm start
-Squat infront of Camera
-Follow squat pointers displayed on screen regarding your form
+<br> Run npm install </br>
+<br> Run npm start </br>
+<br> Squat infront of Camera </br>
+<br> Follow squat pointers displayed on screen regarding your form </br>
 
 
 
